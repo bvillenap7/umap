@@ -46,7 +46,7 @@ BVP: Esta técnica se emplea en un software de código abierto para entender la 
 espacial de los embeddings, lo que puede ayudar a identificar posibles errores en el desarrollo 
 de soluciones basadas en LLM. El siguiente enlace explica de forma resumida en qué consiste:
 
-https://arize.com/docs/phoenix/cookbook/retrieval-and-inferences/embeddings-analysis
+<https://arize.com/docs/phoenix/cookbook/retrieval-and-inferences/embeddings-analysis>
 
 
 ====
