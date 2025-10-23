@@ -40,6 +40,15 @@
 .. |joss_paper| image:: http://joss.theoj.org/papers/10.21105/joss.00861/status.svg
 .. _joss_paper: https://doi.org/10.21105/joss.00861
 
+
+====
+BVP: Esta técnica se emplea en un software de código abierto para entender la representación 
+espacial de los embeddings, lo que puede ayudar a identificar posibles errores en el desarrollo 
+de soluciones basadas en LLM. El siguiente enlace explica de forma resumida en qué consiste:
+
+https://arize.com/docs/phoenix/cookbook/retrieval-and-inferences/embeddings-analysis
+
+
 ====
 UMAP
 ====
