@@ -45,6 +45,14 @@
 UMAP
 ====
 
+
+BVP: Esta técnica se emplea en un software de código abierto para entender la representación 
+espacial de los embeddings, lo que puede ayudar a identificar posibles errores en el desarrollo 
+de soluciones basadas en LLM. El siguiente enlace explica de forma resumida en qué consiste:
+
+https://arize.com/docs/phoenix/cookbook/retrieval-and-inferences/embeddings-analysis
+
+
 Uniform Manifold Approximation and Projection (UMAP) is a dimension reduction
 technique that can be used for visualisation similarly to t-SNE, but also for
 general non-linear dimension reduction. The algorithm is founded on three
@@ -142,6 +150,7 @@ to install all the plotting dependencies.
 If you wish to use Parametric UMAP, you need to install Tensorflow, which can be
 installed either using the instructions at https://www.tensorflow.org/install
 (recommended) or using
+
 
 .. code:: bash
 
